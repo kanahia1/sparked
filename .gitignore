@@ -1,6 +1,5 @@
 .vscode/
 Assembly-CSharp.csproj
-Assets/
 Library/
 Logs/
 Packages/
